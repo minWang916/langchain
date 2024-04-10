@@ -1,0 +1,182 @@
+Resume,Score
+"PERSONAL PROJECTS
+CONTACT
+EDUCATION
+Vietnamese German University
+Major: Information Technology2021 - 2025
+PROGRAMMING
+LANGUAGUES
+English: IELTS 8.0
+Merit scholarship 100% tuition fee
+2022, 2023
+DAAD exchange semester scholarship
+in GermanyDo Minh Quang
+Tel: (+84)-963-916-127
+Linkedin:linkedin.com/in/quang-
+do-minh/
+Email: quangdm961@gmail.com
+FB: facebook.com/do.quang.777
+Github: github.com/minWang916
+General purpose: C, C++, Java,
+Python
+Webdev: HTML, CSS, JS, Django,
+SQL, PHP
+Colab tools: Github, Notion, Trello
+Date Engineering tools: AWS,
+PowerBI, Airflow, DockerApplying to: Data Engineer Internship at Grab
+GPA: 9.4/10 (first year)
+           1.1 (second year)
+Frankfurt University of Applied
+Science- Exchange semesterSep 2023 - Mar 2024 
+CERTIFICATEPython: Self-driving car
+Link: https://github.com/minWang916/AI-self-driving-car-
+simulator
+Description: process camera images around the car to
+output decisions to make direction autonomously during
+driving with neural network.
+Technologies used: Python
+Data Engineering: Batch processing: ETL
+pipeline, data modeling, warehousing and
+visualization for business insights
+Link: https://github.com/minWang916/Batch-processing
+Description:
+ETL pipeline to collect, process and store data from
+data sources. 
+Use statistical graphs and charts on structured data to
+extract meaningful insights.
+Technologies used: Python, Airflow, AWS services (EC2, S3,
+Glue Crawler, Glue Data Catalog, Redshift, Athena), PowerBI
+Web development - Real estate finder website
+Link:https://github.com/minWang916/Garo_real_estate_web
+site_django
+Description: a website to connect people searching for spare
+houses and home owners who would like to rent out their
+properties.
+Frontend: HTML, Bootraps and CSS to create website UI.
+Backend: Django framework to manage system with SQL
+database
+Technologies used: HTML, Bootstrap, CSS, JS, Django,
+SQLlite. 
+Java game software - Affenstarke Zahlenbande
+Link:https://github.com/minWang916/Affenstarken_Zahlen_
+Bande
+Description: a game designed for kid with purpose to
+promote team work and simple math calculation to achieve
+victory.
+Game UI designed with HTML, CSS and Tiled software
+Game logic coded on Libgdx game engine with Java
+Technologies used: Java, HTML, CSS, Tiled 
+",60
+" 
+Huynh Le An Phu  
+Computer Science Bachelor Student, Vietnamese German University  
+(+84) 0938 746 314  10421100@student.vgu.edu.vn   https://github.com/phuhuynhlean  
+SUMMARY  
+I am a dedicated, passionate and hardworking student who is studying  third year  
+Computer Science  at Vietnamese German University.  
+EDUCATION  
+Vietnamese  German University  2021  2025 (anticipated)  
+Bachelor of  Computer Science  
+GPA (2022 -2023 ): 9.7/10 (Vietnamese scale)  1.1 (German scale)  
+Awards : Merit 100% Scholarship  
+Frankfurt University  of Applied Sciences (Frankfurt Fachhochschule)   09/2023  02/2024  
+Excha nge semester via exchange program  
+Awards:  DAAD ( German Academic Exchange Service ) sch olarship for the exchange semester  
+Le Hong Phong High school for the Gifted   2018 - 2021  
+Math major student  
+PARTICIPATION  & EXPERIENCE  
+Mathematics Olympic Team   04/2023  
+VGU Olympic member at the 2023 Math Olympic in Hue  
+- Silver medal winner  of VGU Algebra Olympic Team  
+- Silver medal winner  of VGU Calculus Olympic Team  
+Programming  Projects    2021 - now 
+Developers  of a variety of projects  
+- I participated in game projects using  Java, Lua, GDScript  
+References of my game s: https://mikyx.itch.io/jigsaw -puzzler , 
+https://github.com/minWang916/Affenstarken_Zahlen_Bande   
+- I also lead and coded other academic projects and applications  using Python and JavaScript  
+Refere nce of my projects: https://github.com/phuhuynhlean/projectTraffic   
+Library Assistant    02/2022  07/2023  
+VGU Library Part -time Assistant  
+- Supporting staff and students with finding academic materials  
+- Library part -time caretaker  
+- Help ing organize and pr epare for events at VGU Library  
+Programming competition in Germany    07/2023  02/2024  
+Representative  for Frankfurt University of Applied Sciences  
+- Got third prize in the Autumn Programming Contest  at the University  
+- Participate in the German Winter Contest in Munich for the Frankfurt University  
+SKILL  
+Programming  
+- Experience with  Java, C, C++, Python, Lua, etc.  
+- Familiar with developer tools such as Github, Figma.  
+Language  
+- Vietnamese (mother tongue)  
+- English: IELTS Overall Band 8.0  
+- German: B1 Level  
+",94
+"PHAM TAN ANH VU
+(+84) 934 627 450
+Ho Chi Minh, Viet Nam
+anhvuphamtan@gmail.com
+Github : anhvuphamtanHighly enthusiastic in Data Science fields with a strong drive to 
+acquire, transform and analyze data to generate impactful insights. I 
+am actively pursuing  an internship or entry -level position as a Data 
+Engineer, wishing to grow more in the field. I am aspiring to learn new 
+technologies, and eager to tackle real -world challenges.
+P R O J E C T S
+Stream Processing: Real -time Click Attribution and Dynamic E -
+commerce Insights
+https://github.com/anhvuphamtan/Stream_processing
+Objective :
+ Design E -commerce real -time tracking solution using First Click 
+Attribution to identify checkout -driven clicks with large request 
+volumes. 
+ Provide actionable, near real -time insights into marketing impact by 
+analyzing checkout -driven clicks from various sources (e.g., FB ads, 
+TikTok ads). Empower stakeholders to optimize marketing and 
+business strategies based on these insights.
+Key features :
+ Handle streaming data sources with Kafka and Spark Structured 
+Streaming.
+ Data storage with PostgreSQL.
+ Project building with Java & Maven.
+ Visualization with Grafana.
+ Docker employed for project containerization.
+Technologies used :
+ Java, Spark, Kafka, PostgreSQL, Grafana, Docker.
+Batch Processing: ETL pipeline, data modeling and warehousing of 
+Sales data
+https://github.com/anhvuphamtan/Batch -Processing
+Objective :
+ Utilize data collected from an e -commerce company's 2022 sales to 
+analyze their business performance.
+ Design data models for relational database and data warehouse (star 
+schema).
+ Develop an ETL pipeline to transform raw data into actionable 
+insights then load to OLTP database, also store them in staging area.
+ Implement a secondary ETL pipeline which transform data from 
+staging area into data warehouse for enhanced data analytics. 
+Visualize result.
+Key features :
+ ETL pipelines built with Python.
+ Utilize PostgreSQL as OLTP database.
+ Utilize S3 asstaging area and Redshift as the data warehouse.
+ Airflow for orchestration of pipeline workflow.
+ Terraform for AWS Redshift provisioning.
+ Docker employed for project containerization.
+Technologies used :
+ Python, PostgreSQL, Airflow, Terraform, S3, Redshift, Docker.E D U C A T I O N
+Ho Chi Minh University Of Science
+Major : Data Science 
+GPA : 3.24/4.0
+S K I L L S
+Programming languages: Python, Java, 
+SQL 
+Data processing frameworks: Apache 
+Spark, Hadoop, Kafka, Airflow
+Cloud: AWS (S3, Redshift)
+Visualization: Grafana
+Technical environments: Docker, 
+Terraform
+C E R T I F I C A T E S
+English: IELTS 7.5 ",55

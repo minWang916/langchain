@@ -1,0 +1,51 @@
+import os
+import random
+import PyPDF2
+import pandas as pd
+
+# Function to read text from a PDF file and encode to UTF-8
+def extract_text_from_pdf(pdf_file):
+    text = ""
+    with open(pdf_file, "rb") as file:
+        pdf_reader = PyPDF2.PdfReader(file)
+        for page_num in range(len(pdf_reader.pages)):
+            page_text = pdf_reader.pages[page_num].extract_text()
+            # Remove characters that cannot be decoded
+            page_text_cleaned = ''.join(char for char in page_text if ord(char) < 128)
+            # Encode text to UTF-8
+            text += page_text_cleaned.encode('utf-8', 'ignore').decode('utf-8')
+    return text
+
+# Get list of PDF files in the current directory
+pdf_files = [file for file in os.listdir() if file.endswith(".pdf")]
+
+# Initialize lists for storing resume content and scores
+resume_content = []
+scores = []
+
+# Generate random scores and extract text from PDFs
+for pdf_file in pdf_files:
+    resume_content.append(extract_text_from_pdf(pdf_file))
+    scores.append(random.randint(50, 100))
+
+# Create DataFrame
+df = pd.DataFrame({
+    "Resume": resume_content,
+    "Score": scores
+})
+
+# Save DataFrame to CSV file
+df.to_csv("resumes_scores.csv", index=False)
+
+print("CSV file 'resumes_scores.csv' created successfully.")
+
+
+
+
+import pandas as pd
+
+# Read the CSV file into a DataFrame
+df = pd.read_csv("resumes_scores.csv")
+
+# Display the DataFrame
+print(df)
