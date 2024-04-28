@@ -49,7 +49,7 @@ def main():
             st.write("embedding created and saved to disk")
     query = st.text_input("Ask a question about the PDF")
     if query:
-        docs = VectorStore.similarity_search(query=query, k=3)
+        docs = VectorStore.similarity_search(query=query, k=1)
         st.write(docs)
         llm = OpenAI(temperature = 0,model = "gpt-3.5-turbo-instruct")
         chain = load_qa_chain(llm = llm)
